@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SportsNews</string>
+    <string name="error_internet">Проверте подключение к интернету</string>
+</resources>
